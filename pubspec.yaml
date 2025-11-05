@@ -1,0 +1,37 @@
+name: f1_quiz_app
+description: A new Flutter project for F1 Quiz UTS.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Untuk state management
+  provider: ^6.1.2
+
+  # Untuk font kustom yang dinamis
+  google_fonts: ^6.2.1
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Aktifkan folder assets untuk gambar
+  assets:
+    - assets/images/f1logo.png
+    - assets/images/logosponsorf1.png
+    - assets/images/mobilf1ferrari.jpeg
+    - assets/images/logosponsormercedesf1.png
+    - assets/images/astonmartinlogo.png
