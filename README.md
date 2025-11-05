@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# utspemob
 
-A new Flutter project.
+# UTSPEMOB 
+
 
 ## Getting Started
 
