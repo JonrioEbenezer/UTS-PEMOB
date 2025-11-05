@@ -25,5 +25,5 @@ Lab   :6
 Deskripsi:Sebuah aplikasi kuis bagi pencinta F1
 Credit:
 Screenshoot:<img width="329" height="650" alt="image" src="https://github.com/user-attachments/assets/c16807cc-5d5a-475b-881a-95a26e75b484" />
-Prototype:
->>>>>>> a21c99c31f83423372420d173965d159abe8df43
+Prototype:https://www.figma.com/design/h6rjYDyZ1ev0JExQPL3P66/Prototype-F1Quiz?node-id=0-1&t=hs7OEmso3YX4kip6-1
+
